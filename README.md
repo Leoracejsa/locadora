@@ -2,3 +2,5 @@
 
 Projeto realizado para fins acadêmicos, onde a classe Funcionário está sendo chamada.
 
+Utilizando Hibernate com Maven.
+
