@@ -1,0 +1,37 @@
+a.page-home{
+	font-size: 18px;
+}
+
+a.page-home-1{
+	font-size: 18px;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+h1.page-home{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+td.option{
+	font-weight: bold;
+	text-align: center;
+	font-size:18px;
+}
+
+td.option-1{
+	font-size:16px;
+	text-align: center;
+}
+
+td.option-2{
+	font-size:18px;
+}
+
+a.table-option{
+	margin: 13px;
+}
+
+.center{
+	text-align: center;
+}
